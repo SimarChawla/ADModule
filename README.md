@@ -1,9 +1,9 @@
 # YorkRegionADModule
 This module was designed for the York Region.
 
-It contains convenient active directory data gathering functions. Due to policy, these functions only extract data from Active Directory and do not alter the directory in any way. If you are an Active Directory Database Manager at the York Region and ish to implement functions that cause changes, please email at simar.chawla@york.ca or simarchawla27@gmail.com.
+It contains convenient active directory data gathering functions. Due to policy, these functions only extract data from Active Directory and do not alter the directory in any way. If you are an Active Directory Database Manager at the York Region and wish to implement functions that cause changes, please email me at simar.chawla@york.ca or simarchawla27@gmail.com.
 
-The functions included in this module are:
+### The functions included in this module are:
 
 Get-InactiveUsers
 
